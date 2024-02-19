@@ -1,0 +1,13 @@
+[
+    {"mood": "sad", "content": "Feeling overwhelmed with work"},
+    {"mood": "happy", "content": "Celebrated a friend's birthday"},
+    {"mood": "angry", "content": "Traffic jam made me late for a meeting"},
+    {"mood": "excited", "content": "Planning a weekend getaway"},
+    {"mood": "content", "content": "Enjoyed a peaceful day at the park"},
+    {"mood": "anxious", "content": "Waiting for exam results"},
+    {"mood": "grateful", "content": "Received unexpected help from a colleague"},
+    {"mood": "relaxed", "content": "Spent the evening reading a good book"},
+    {"mood": "surprised", "content": "Discovered a new favorite restaurant"},
+    {"mood": "inspired", "content": "Attended a motivational seminar"}
+  ]
+  
